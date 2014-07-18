@@ -15,3 +15,4 @@
 * use thunar's file properties dialog
 * progress dialog for copying/moving files
 *bug fixes
+*get rid of thunar dependency and replce with ufm and integrate ufm better into Udesktop
